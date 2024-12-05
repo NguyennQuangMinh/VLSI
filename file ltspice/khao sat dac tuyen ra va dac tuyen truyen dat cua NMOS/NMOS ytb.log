@@ -1,0 +1,26 @@
+Circuit: * C:\hoc\nam 4 ver 2\thiet ke mach VLSI\tu lam thu vien ltspice\NMOS ytb\NMOS ytb.asc
+
+.OP point found by inspection.
+.step vds=0
+.step vds=0.5
+.step vds=1
+.step vds=1.5
+.step vds=2
+
+Date: Wed Feb 21 21:38:21 2024
+Total elapsed time: 0.113 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 30016
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1: off  [0.0]/0.0/0.0
+Matrix Compiler2: 216 bytes object code size  0.0/0.0/[0.0]
+

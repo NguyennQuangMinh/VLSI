@@ -1,0 +1,19 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\hoc\nam 4 ver 2\thiet ke mach VLSI\file ltspice\thiet ke mach so\NAND_3 input.asc
+Start Time: Tue Apr  9 14:41:55 2024
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.150 seconds.
+

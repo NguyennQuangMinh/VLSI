@@ -1,0 +1,27 @@
+Circuit: * C:\hoc\nam 4 ver 2\thiet ke mach VLSI\tu lam thu vien ltspice\PMOS ytb\PMOS ytb.asc
+
+.dc sweep increment has wrong sign -- fixing...
+.OP point found by inspection.
+.step vds=0
+.step vds=-0.5
+.step vds=-1
+.step vds=-1.5
+.step vds=-2
+
+Date: Wed Feb 21 21:42:16 2024
+Total elapsed time: 0.085 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 5023
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1:       7 opcodes  0.0/[0.0]/0.0
+Matrix Compiler2: off  [0.0]/0.0/0.0
+

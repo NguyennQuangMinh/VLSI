@@ -1,0 +1,5 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\hoc\nam 4 ver 2\thiet ke mach VLSI\file ltspice\thiet ke mach so\Draft1.asc
+Start Time: Mon Apr  8 19:36:15 2024
+Fatal Error: Unknown subcircuit called in:
+   xx1 n002 n004 n001 n003 nand_2 input

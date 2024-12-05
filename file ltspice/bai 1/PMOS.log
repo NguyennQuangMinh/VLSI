@@ -1,0 +1,44 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\hoc\nam 4 ver 2\thiet ke mach VLSI\file ltspice\bai 1\PMOS.asc
+Start Time: Tue Apr 16 10:39:27 2024
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- BSIM3 MOSFETS ---
+Name:        m1
+Model:      cmosp
+Id:       -4.96e-04
+Vgs:      -1.00e+00
+Vds:      -1.80e+00
+Vbs:      -1.80e+00
+Vth:      -1.29e-01
+Vdsat:    -5.39e-01
+Gm:        9.96e-04
+Gds:       1.23e-05
+Gmb        7.75e-05
+Cbd:       0.00e+00
+Cbs:       0.00e+00
+Cgsov:     9.77e-15
+Cgdov:     9.77e-15
+Cgbov:     4.41e-19
+dQgdVgb:   6.00e-14
+dQgdVdb:  -9.77e-15
+dQgdVsb:  -5.12e-14
+dQddVgb:  -2.53e-14
+dQddVdb:   9.78e-15
+dQddVsb:   1.70e-14
+dQbdVgb:  -9.43e-15
+dQbdVdb:  -2.69e-18
+dQbdVsb:   7.47e-15
+
+
+Total elapsed time: 0.090 seconds.
+

@@ -1,0 +1,12 @@
+Viết lệnh trên LTspice: Edit simulator command
+Mô phỏng trên miền thời gian : Transient : Stop time (thời gian hiển thị mô phỏng)
+					   Time to start saving data (thời gian lưu trữ dữ liệu)
+					   Maximum time step (Khoảng cách giữa các điểm lấy mẫu)
+Mô phỏng trên miền tần số : AC Analysis : Type of sweep( Thang đo ): Decade
+					    Number of point per decade (số lượng điểm lấy mẫu) : tùy ý thường lấy là 20
+					    Start frequency ( tần số bắt đầu ): không đươc bắt đầu bằng 0
+					    Stop frequency (tần số kết thúc ): chọn số sau đó thêm chữ meg đằng sau
+Chế độ quét một chiều : DC sweep : Khảo sát các nguồn khác nhau : Type of sweep : Linear (thang đo tuyến tính)
+Hàm truyền đạt DC : DC Transfer
+Câu lệnh meas: đo các giá trị đặc biệt của một mô phỏng nào đó( viết câu lệnh .meas sau đó chuột phải vào để edit các giá trị cần xem)
+								  
